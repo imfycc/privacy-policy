@@ -1,4 +1,4 @@
-# Privacy Policy for AnyRemember
+# Privacy Policy for BetterWe
 
 No data or personal information is collected by this app.
 
