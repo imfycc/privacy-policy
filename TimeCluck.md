@@ -1,4 +1,4 @@
-# Privacy Policy for AnyRemember
+# Privacy Policy for TimeCluck
 
 No data or personal information is collected by this app.
 
