@@ -1,4 +1,4 @@
-# Privacy Policy for BetterWe
+# Privacy Policy for LuckySeer
 
 No data or personal information is collected by this app.
 
